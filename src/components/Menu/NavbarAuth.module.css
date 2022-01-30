@@ -1,0 +1,57 @@
+.auth {
+	padding: 2rem 0rem;
+	display: flex;
+	flex-direction: column;
+	gap: 0.8rem;
+}
+.auth-head {
+	padding-left: 1rem;
+	color: var(--grey);
+	font-size: 0.8rem;
+	margin-bottom: 0.6rem;
+}
+.auth-link__register {
+	cursor: pointer;
+	margin: 0 0.5rem;
+	background-color: var(--dark-grey);
+	color: var(--light-grey);
+	text-align: center;
+	padding: 1.1rem 1.4rem;
+	font-size: 0.8rem;
+	border-radius: 0.8rem;
+	-webkit-border-radius: 0.8rem;
+	-moz-border-radius: 0.8rem;
+	-ms-border-radius: 0.8rem;
+	-o-border-radius: 0.8rem;
+	transition: background-color 0.2s ease-in-out;
+	-webkit-transition: background-color 0.2s ease-in-out;
+	-moz-transition: background-color 0.2s ease-in-out;
+	-ms-transition: background-color 0.2s ease-in-out;
+	-o-transition: background-color 0.2s ease-in-out;
+}
+.auth-link__register:hover {
+	background-color: var(--lighter-dark-grey);
+}
+.auth-link__login {
+	cursor: pointer;
+
+	margin: 0 0.5rem;
+	background-color: var(--dark-purple);
+	color: var(--light-grey);
+	text-align: center;
+	padding: 1.1rem 1.4rem;
+	font-size: 0.8rem;
+	border-radius: 0.8rem;
+	-webkit-border-radius: 0.8rem;
+	-moz-border-radius: 0.8rem;
+	-ms-border-radius: 0.8rem;
+	-o-border-radius: 0.8rem;
+	transition: background-color 0.2s ease-in-out;
+	-webkit-transition: background-color 0.2s ease-in-out;
+	-moz-transition: background-color 0.2s ease-in-out;
+	-ms-transition: background-color 0.2s ease-in-out;
+	-o-transition: background-color 0.2s ease-in-out;
+}
+.auth-link__login:hover {
+	background-color: var(--lighter-purple);
+}

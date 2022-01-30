@@ -1,0 +1,13 @@
+.menu {
+	position: fixed;
+	padding: 3rem 5rem 2rem 4rem;
+	border-right: 1px solid var(--light-grey-opacity);
+	display: flex;
+	flex-direction: column;
+	align-items: flex-end;
+	justify-content: flex-start;
+	height: 100vh;
+}
+.menu__logo {
+	margin-bottom: 2.5rem;
+}

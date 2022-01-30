@@ -18,6 +18,12 @@
 	--green: #75c690;
 	--red: #ff7440;
 }
+html,
+body,
+#app,
+#app > div {
+	height: 100%;
+}
 .main {
 	margin: 0 auto;
 	max-width: 1440px;
