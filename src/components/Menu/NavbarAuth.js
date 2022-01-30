@@ -1,15 +1,16 @@
 import styles from './NavbarAuth.module.css';
+import Button from '../UI/Button';
 
 const Menu = () => {
 	return (
 		<div className={styles['auth']}>
 			<p className={styles['auth-head']}>Авторизация</p>
-			<a href className={styles['auth-link__register']}>
+			<Button href className={styles['auth-link__register']}>
 				Зарегистрироваться
-			</a>
-			<a href className={styles['auth-link__login']}>
+			</Button>
+			<Button href className={styles['auth-link__login']}>
 				Войти
-			</a>
+			</Button>
 		</div>
 	);
 };

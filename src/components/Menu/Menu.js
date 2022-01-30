@@ -15,9 +15,7 @@ const Menu = () => {
 					className={styles['menu__logo-image']}
 				/>
 			</div>
-			<Router>
-				<Navbar />
-			</Router>
+			<Navbar />
 			<NavbarAuth />
 		</div>
 	);
