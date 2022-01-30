@@ -1,3 +1,9 @@
+html {
+	font-family: 'Stolzl', sans-serif;
+}
+body {
+	background-color: var(--dark-grey-background);
+}
 body::-webkit-scrollbar {
 	width: 12px; /* width of the entire scrollbar */
 }
