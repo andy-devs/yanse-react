@@ -12,14 +12,14 @@
 }
 .auth-link__register {
 	background-color: var(--dark-grey) !important;
-	color: var(--light-grey);
+	color: var(--white);
 }
 .auth-link__register:hover {
 	background-color: var(--lighter-dark-grey) !important;
 }
 .auth-link__login {
 	background-color: var(--dark-purple);
-	color: var(--light-grey);
+	color: var(--white);
 }
 .auth-link__login:hover {
 	background-color: var(--lighter-purple);

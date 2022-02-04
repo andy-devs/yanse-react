@@ -11,7 +11,7 @@
 	margin-bottom: 3.5rem;
 }
 .home__search-content {
-	color: var(--light-grey);
+	color: var(--white);
 	display: flex;
 	flex-direction: column;
 	gap: 1.4rem;
@@ -38,7 +38,7 @@
 }
 .home__search-button {
 	background-color: var(--dark-purple);
-	color: var(--light-grey);
+	color: var(--white);
 	align-self: flex-start;
 }
 

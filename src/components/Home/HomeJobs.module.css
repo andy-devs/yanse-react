@@ -6,7 +6,7 @@
 	line-height: 1.5;
 	font-weight: 400;
 	margin-bottom: 2rem;
-	color: var(--light-grey);
+	color: var(--white);
 }
 .home__jobs-grid {
 	display: grid;

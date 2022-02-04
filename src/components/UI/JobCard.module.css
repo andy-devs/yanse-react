@@ -6,7 +6,7 @@
 	background-color: var(--greyish-blue);
 	padding: 1.5rem;
 	border-radius: 1.5rem;
-	color: var(--light-grey);
+	color: var(--white);
 }
 .job-card__image {
 	border-radius: 1rem;

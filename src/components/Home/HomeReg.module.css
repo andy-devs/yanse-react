@@ -1,0 +1,9 @@
+.home-reg {
+	background: linear-gradient(
+		180deg,
+		var(--gradient-secondary-first) 0%,
+		var(--gradient-secondary-second) 100%
+	);
+	padding: 2rem;
+	color: var(--white);
+}

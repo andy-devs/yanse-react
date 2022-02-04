@@ -35,7 +35,7 @@
 	-o-transition: filter 0.2s ease-in-out;
 }
 .nav-link:hover {
-	color: var(--light-grey);
+	color: var(--white);
 	background-color: var(--grey-back);
 }
 .nav-link:hover .nav-link__logo {

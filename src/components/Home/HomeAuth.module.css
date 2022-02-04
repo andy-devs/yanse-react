@@ -17,7 +17,7 @@
 	margin-bottom: 3.5rem;
 }
 .home__login-text {
-	color: var(--light-grey);
+	color: var(--white);
 	font-size: 0.9rem;
 	font-weight: 300;
 	line-height: 1.5;
@@ -27,7 +27,7 @@
 	gap: 1.2rem;
 }
 .home__login-links__client {
-	color: var(--light-grey);
+	color: var(--white);
 	border: 1px solid var(--dark-purple);
 	padding: 1.1rem 1.9rem;
 	font-size: 0.8rem;
@@ -47,7 +47,7 @@
 	background-color: rgba(52, 85, 222, 0.2);
 }
 .home__login-links__worker {
-	color: var(--light-grey);
+	color: var(--white);
 	background-color: var(--dark-purple);
 	border: 1px solid var(--dark-purple);
 	padding: 1.1rem 1.9rem;

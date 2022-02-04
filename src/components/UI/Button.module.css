@@ -14,7 +14,7 @@
 	-ms-transition: background-color 0.2s ease-in-out;
 	-o-transition: background-color 0.2s ease-in-out;
 	background-color: var(--dark-purple);
-	color: var(--light-grey);
+	color: var(--white);
 }
 
 .button:hover {

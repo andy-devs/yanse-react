@@ -1,5 +1,5 @@
 .home__stats {
-	color: var(--light-grey);
+	color: var(--white);
 	display: flex;
 	background-color: var(--greyish-blue);
 	border: 0.5px solid #696669;
