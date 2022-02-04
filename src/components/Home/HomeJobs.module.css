@@ -10,7 +10,7 @@
 }
 .home__jobs-grid {
 	display: grid;
-	gap: 2rem;
+	gap: 2.5rem 0rem;
 	grid-template-columns: 1fr 1fr;
 	grid-template-rows: auto;
 }
