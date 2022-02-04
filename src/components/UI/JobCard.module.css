@@ -1,0 +1,29 @@
+.job-card {
+	display: flex;
+	flex-direction: column;
+	width: 25rem;
+	background-color: var(--greyish-blue);
+	padding: 2rem;
+	border-radius: 1.5rem;
+	color: var(--light-grey);
+}
+.job-card__image {
+	border-radius: 1rem;
+	margin-bottom: 0.5rem;
+}
+
+.job-card__title {
+}
+.job-card__description {
+}
+.job-card__icon {
+}
+.job-card__button {
+	background-color: var(--dark-purple);
+	color: var(--light-grey);
+	align-self: flex-start;
+}
+
+.job-card__button:hover {
+	background-color: var(--lighter-purple);
+}

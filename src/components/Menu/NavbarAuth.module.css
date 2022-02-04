@@ -11,11 +11,11 @@
 	margin-bottom: 0.6rem;
 }
 .auth-link__register {
-	background-color: var(--dark-grey);
+	background-color: var(--dark-grey) !important;
 	color: var(--light-grey);
 }
 .auth-link__register:hover {
-	background-color: var(--lighter-dark-grey);
+	background-color: var(--lighter-dark-grey) !important;
 }
 .auth-link__login {
 	background-color: var(--dark-purple);

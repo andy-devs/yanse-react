@@ -1,0 +1,15 @@
+.home__jobs {
+	margin-bottom: 3rem;
+}
+.home__jobs-head {
+	font-size: 1.5rem;
+	line-height: 1.5;
+	font-weight: 400;
+	margin-bottom: 2rem;
+	color: var(--light-grey);
+}
+.home__jobs-grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-template-rows: 1fr 1fr;
+}
