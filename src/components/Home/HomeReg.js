@@ -15,21 +15,27 @@ const HomeReg = () => {
 				<div className={styles['home-reg__head-images']}>
 					<img
 						className={
-							styles['home-reg__head-images__item'] + styles['first-image']
+							styles['home-reg__head-images__item'] +
+							' ' +
+							styles['first-image']
 						}
 						src={greenGuy}
 						alt='green guy icon'
 					/>
 					<img
 						className={
-							styles['home-reg__head-images__item'] + styles['second-image']
+							styles['home-reg__head-images__item'] +
+							' ' +
+							styles['second-image']
 						}
 						src={yellowGuy}
 						alt='yellow guy icon'
 					/>
 					<img
 						className={
-							styles['home-reg__head-images__item'] + styles['third-image']
+							styles['home-reg__head-images__item'] +
+							' ' +
+							styles['third-image']
 						}
 						src={purpleGuy}
 						alt='purple guy icon'

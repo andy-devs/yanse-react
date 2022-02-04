@@ -4,6 +4,47 @@
 		var(--gradient-secondary-first) 0%,
 		var(--gradient-secondary-second) 100%
 	);
-	padding: 2rem;
+	padding: 2.5rem 3rem 3.5rem 3rem;
 	color: var(--white);
+	border-radius: 1rem 3.5rem 3.5rem 3.5rem;
+}
+.home-reg__head {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-bottom: 1.2rem;
+}
+.home-reg__head-text {
+	font-size: 1.4rem;
+	font-weight: 400;
+	line-height: 1.5;
+	padding-right: 2rem;
+}
+.home-reg__head-images {
+	display: flex;
+}
+.first-image {
+	position: relative;
+	left: 1rem;
+	z-index: 1;
+}
+.second-image {
+	z-index: 2;
+}
+.third-image {
+	position: relative;
+	left: -1rem;
+	z-index: 3;
+}
+.home-reg__description {
+	font-size: 1rem;
+	font-weight: 300;
+	line-height: 1.5;
+	margin-bottom: 2.8rem;
+}
+.home-reg__button {
+	background-color: var(--dark-grey) !important;
+}
+.home-reg__button:hover {
+	background-color: var(--lighter-dark-grey) !important;
 }
