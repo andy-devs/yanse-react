@@ -1,0 +1,36 @@
+.home-platform__heading-text {
+	color: var(--grey);
+	font-size: 0.9rem;
+	font-weight: 400;
+	margin-bottom: 1.5rem;
+}
+.home-platform {
+	background: var(--greyish-blue);
+	color: var(--white);
+	padding: 3rem;
+	border: 0.5px solid #696669;
+	border-radius: 2rem;
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 2rem;
+}
+.home-platform__head {
+	display: flex;
+	align-items: center;
+	gap: 2.5rem;
+	margin-bottom: 2rem;
+}
+.home-platform__head-text {
+	font-size: 0.85rem;
+	font-weight: 300;
+	line-height: 1.8;
+}
+.home-platform__charts {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 1rem;
+	margin-bottom: 2rem;
+}
+.home-platform__button {
+	align-self: center;
+}

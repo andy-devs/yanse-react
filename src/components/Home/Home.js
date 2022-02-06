@@ -4,6 +4,7 @@ import HomeSearch from './HomeSearch';
 import HomeStats from './HomeStats';
 import HomeJobs from './HomeJobs';
 import HomeReg from './HomeReg';
+import HomePlatform from './HomePlatform';
 
 const Home = () => {
 	return (
@@ -13,6 +14,7 @@ const Home = () => {
 			<HomeStats />
 			<HomeJobs />
 			<HomeReg />
+			<HomePlatform />
 		</div>
 	);
 };

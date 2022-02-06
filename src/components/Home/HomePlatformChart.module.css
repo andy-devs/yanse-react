@@ -1,0 +1,40 @@
+.home-platform-chart {
+	background: var(--dark-greyish-blue);
+	padding: 1.5rem 1rem;
+	display: flex;
+	max-width: 16rem;
+	border-radius: 1.3rem;
+	box-shadow: inset 0px 0px 8px rgba(0, 0, 0, 0.6);
+}
+.home-platform-chart__text-container {
+	min-width: 100%;
+}
+.home-platform-chart__text-head {
+	font-weight: 400;
+	font-size: 2.8rem;
+	margin-bottom: 0.7rem;
+}
+.home-platform-chart__text-desc {
+	font-weight: 200;
+	font-size: 0.8rem;
+	line-height: 1.9;
+	color: var(--white);
+	opacity: 0.9;
+	max-width: 100%;
+}
+.home-platform-chart__image {
+	position: relative;
+	transform: scale(1.2);
+	top: -0.3rem;
+}
+.firstImage {
+	left: -5.2rem;
+	transform: scale(1);
+}
+.secondImage {
+	left: -6rem;
+}
+.thirdImage {
+	left: -6rem;
+	transform: scale(1.5);
+}
