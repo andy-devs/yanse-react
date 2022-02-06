@@ -33,6 +33,7 @@
 }
 .secondImage {
 	left: -6rem;
+	transform: scale(1.1);
 }
 .thirdImage {
 	left: -6rem;
